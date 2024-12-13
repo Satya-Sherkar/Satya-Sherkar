@@ -2,7 +2,6 @@
 - 👀 I’m interested in Blockchain, smart contracts.
 - 🌱 I’m currently learning solidity.
 - 💞️ I’m looking to collaborate on smart contract projects.
-- 😄 Pronouns:he/him
 
 <!---
 Satya-Sherkar/Satya-Sherkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
