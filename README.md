@@ -84,7 +84,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-three-kappa-82.vercel.app?user=Satya-Sherkar&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Satya-Sherkar&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
