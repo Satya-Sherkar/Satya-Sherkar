@@ -71,7 +71,7 @@
 - 🎟 **On‑chain Raffle / Lottery** – Provably fair raffle system with verifiable on‑chain randomness  
   `Solidity · Chainlink VRF · Foundry`
 - 👥 **Crowdfunding dApp** – Transparent project funding with milestone‑based withdrawals  
-  `Solidity · Ethers.js · Next.js`
+  `Solidity · Foundry`
 - 🖼 **NFT Collection / Marketplace** – ERC‑721 collection with minting, royalties and marketplace logic  
   `Solidity · IPFS `
 
